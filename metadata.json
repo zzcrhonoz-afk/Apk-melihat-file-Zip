@@ -1,0 +1,6 @@
+{
+  "name": "Zip File Viewer",
+  "description": "An elegant single-screen Zip file explorer and extractor with file contents previewer and visual card layouts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
